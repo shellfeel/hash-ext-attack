@@ -5,6 +5,8 @@
 ## 使用方法
 
 ### 交互式
+![img_1.png](img_1.png)
+
 1. 按照requirements.txt 安装好依赖
 2. 运行 hash_ext_attack.py  脚本
 3. 按照提示输入
